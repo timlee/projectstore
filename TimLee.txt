@@ -11,6 +11,3 @@ add line 2
 add line by 02
 >>>>>>> 963acdccf3b4da59e4672cb4046684a1208702ae
 >>>>>>> 4e1fc5f65ccf5b50afc24a66d95221a1aae8e01a
-
-
-.......jojo
