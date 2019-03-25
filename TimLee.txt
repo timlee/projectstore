@@ -1,4 +1,12 @@
 <<<<<<< HEAD
+=======
+Add line 4
+<<<<<<< HEAD
+Add line 2
+add line14
+=======
+>>>>>>> 7a0d6addf2a155d79129cbf9e20dae0e5cfcd81f
+<<<<<<< HEAD
 M10774708
 =======
 add line 1
