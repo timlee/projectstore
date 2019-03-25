@@ -1,6 +1,7 @@
 
 public class Client {
 	Store fruitstore = new Store();
+        string name;
 	double price;
 
 	public static void main(String[] args) {
