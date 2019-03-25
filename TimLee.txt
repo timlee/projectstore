@@ -3,4 +3,8 @@ M10774708
 =======
 add line 1
 add line 2
+<<<<<<< HEAD
 >>>>>>> 7b7f87f14a363754e1f79d9982d76b643d81507a
+=======
+add line by 02
+>>>>>>> 963acdccf3b4da59e4672cb4046684a1208702ae
