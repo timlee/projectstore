@@ -1,7 +1,7 @@
 
 public class Strawberry {
 	public double price(){
-		return 15;
+		return 17;
 		
 	}
 }
