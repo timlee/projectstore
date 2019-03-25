@@ -1,6 +1,9 @@
 
 public class Store {
 	
+	Sring Store_Name = "Test!!";
+
+
 	public double sell(Apple a){
 		return a.price();		
 	}
