@@ -1,6 +1,6 @@
 
 public class Store {
-	
+	//test by sam
 	public double sell(Apple a){
 		return a.price();		
 	}
