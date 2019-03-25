@@ -1,3 +1,25 @@
+<<<<<<< HEAD
 add line 6
+=======
+<<<<<<< HEAD
+=======
+Add line 4
+<<<<<<< HEAD
+Add line 2
+add line14
+=======
+>>>>>>> 7a0d6addf2a155d79129cbf9e20dae0e5cfcd81f
+<<<<<<< HEAD
+M10774708
+=======
+>>>>>>> 3872e6178760190cd32fa762658264c09d061e9b
 add line 1
 add line 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7b7f87f14a363754e1f79d9982d76b643d81507a
+=======
+add line by 02
+>>>>>>> 963acdccf3b4da59e4672cb4046684a1208702ae
+>>>>>>> 4e1fc5f65ccf5b50afc24a66d95221a1aae8e01a
