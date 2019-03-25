@@ -1,12 +1,14 @@
 
 public class Store {
-
-	// test upload
-	
+	// test by tim
+	// test upload 
+	// test by tim
+	//test by albert
 	Sring Store_Name = "Test!!";
 
 
 =======
+	//test by tim
 	//test by sam
 	//test by albertbaron
 <<<<<<< HEAD
